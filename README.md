@@ -1,7 +1,7 @@
-# Lab-06
-Solution to CMPUT 301 Lab 6
+# Lab-06 : JUnit and Javadoc
+Solution to CMPUT 301 Lab 6 
 
 ## Student Details
-# Onami Ademola
+# Full name : Onami Ademola
 
-CCID: onamiyeo
+# CCID: onamiyeo
